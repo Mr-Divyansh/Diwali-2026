@@ -1,5 +1,5 @@
 /**
- * diwali2026-beta.vercel.app - High-Performance Asset Cache Service Worker
+ * divyansh-kumar.in - High-Performance Asset Cache Service Worker
  * 
  * Provides persistent browser caching for images, videos, audio, and static assets
  * across page navigations and revisits without altering existing loading timings.
